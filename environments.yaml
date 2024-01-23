@@ -1,0 +1,5 @@
+---
+'daacsys8-dev.ornl.gov': 'development'
+'daacsys8-ptest1.ornl.gov': 'development'
+'daacsys8-ptest2.ornl.gov': 'development'
+'daacshare1.ornl.gov': 'production'
